@@ -19,6 +19,7 @@ header{
     font-size: 30px;
     justify-content: center;
     font-style: italic;
+    color: #3d6799;
 }
 main{
     display: flex;
